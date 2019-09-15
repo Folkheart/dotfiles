@@ -1,0 +1,12 @@
+Term dracula
+bg #282A36
+text #FFFFFF
+
+Vim
+https://github.com/junegunn/vim-plug
+
+ST
+https://wiki.archlinux.org/index.php/St#Vim
+
+PowerLine fonts
+https://github.com/powerline/fonts
