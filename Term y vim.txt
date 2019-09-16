@@ -10,3 +10,12 @@ https://wiki.archlinux.org/index.php/St#Vim
 
 PowerLine fonts
 https://github.com/powerline/fonts
+
+PDF printer
+sudo apt-get install cups-pdf
+
+Windows network
+sudo apt install samba
+
+Epson printer drivers
+http://download.ebz.epson.net/dsc/search/01/search/?OSC=LX
