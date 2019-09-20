@@ -116,3 +116,4 @@ if ! shopt -oq posix; then
   fi
 fi
 
+PATH=$PATH:~/.vim/plugged/vim-live-latex-preview/bin
