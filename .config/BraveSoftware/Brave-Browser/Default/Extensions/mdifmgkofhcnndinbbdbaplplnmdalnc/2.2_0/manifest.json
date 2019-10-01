@@ -1,0 +1,25 @@
+{
+   "description": "Just like the old days ;)",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyh6oLRxMYNDIbsHJjeQUm5nVQrRLy2gsjxVhNAYoBXsklKsU+TkrGcciTfdZdIDuxDFi75EqQBQEDaV3xNt2Yy6ae45LRbGhlHSVCRfyYt6cK82jiiZD6+Uk+ukZZqkE8qEueG/2JE42xTlMkl/xVBJZ2XOFNM9ez40gJX4l1bgYM45RoEx2epcLbcXaZkWF6i99GgkZn8AeGeer5iEwOkcisIrYe3PeSKOtmrPi1MiNZntUXKfFwTCbqPE/ZqjRRLl8k6Z7n86Xd5xddgcbEFqSjwFzSjV34DPHZipaWy5THl6dRk3z/TNCMl4Dc04jtMHjkzRol6475sdmgbZByQIDAQAB",
+   "manifest_version": 2,
+   "name": "Classic Blue",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 41, 74, 112 ],
+         "frame": [ 71, 146, 230 ],
+         "ntp_background": [ 255, 255, 255 ],
+         "ntp_text": [ 41, 74, 112 ],
+         "tab_background_text": [ 245, 248, 253 ],
+         "tab_text": [ 41, 74, 112 ],
+         "toolbar": [ 245, 248, 253 ]
+      },
+      "tints": {
+         "buttons": [ 0.7, 0.9, 0.2 ],
+         "frame_inactive": [ -1, -1, -1 ],
+         "frame_incognito": [ 0.1, 0, 0.2 ],
+         "frame_incognito_inactive": [ 0.1, 0, 0.2 ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.2"
+}
