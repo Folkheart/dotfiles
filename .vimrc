@@ -1,3 +1,8 @@
+" SOME DEFAULTS
+set nocompatible
+syntax enable
+filetype plugin indent on
+
 " VIM-PLUG
 	" Specify a directory for plugins
 	call plug#begin('~/.vim/plugged')
@@ -10,6 +15,10 @@
 		Plug 'Yggdroot/indentLine'
 	call plug#end()
 	
+" set path+=**
+set wildmenu
+
+
 " AIR-LINE
 	let g:airline_extensions = []
 	let g:airline_theme='dracula'
@@ -88,3 +97,6 @@
 	let g:indentLine_char = '|'
 	let g:indentLine_enabled = 1
 	set list lcs=tab:\|\ "space at the end 
+
+" Enable clipboard in vim
+	set clipboard=unnamedplus
